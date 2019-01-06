@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'ycode.me website'
+project = 'YCode, code with me.'
 copyright = '2019, Zhu Wanshan (aka, Spark)'
 author = 'Zhu Wanshan (aka, Spark)'
 
@@ -149,8 +149,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'ycodemewebsite', 'ycode.me website Documentation',
-     author, 'ycodemewebsite', 'One line description of project.',
+    (master_doc, 'ycodemewebsite', 'todo',
+     author, 'ycodemewebsite', 'TODO',
      'Miscellaneous'),
 ]
 
